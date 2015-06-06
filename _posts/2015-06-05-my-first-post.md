@@ -7,8 +7,12 @@ title: My First Jekyll Post
 
 # {{ page.title }}
 
+{{ page.tags | array_to_sentence_string }}
+
+<!--
 <ul class="tags">
   {% for tag in page.tags %}
     <li>{{ tag }}</li>
   {% endfor %}
 </ul>
+-->
