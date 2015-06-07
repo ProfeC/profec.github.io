@@ -1,13 +1,27 @@
 ---
-category: Learning
-tags: [teach,docs, wtf, learn]
-filename: 2015-06-05-my-first-post.md
-title: My First Jekyll Post
+layout: page
+title: "My First Jekyll Post"
+#subheadline: "Headers With Style"
+teaser: "Trying to figure out Jekyll."
+
+categories:
+    - Learning
+
+tags:
+    - teach
+    - docs
+    - learn
+    - wtf
+
+header:
+    title: ""
+    background-color: "#EFC94C;"
+#    pattern: pattern_concrete.jpg
+    image_fullwidth: header-unsplash-matthew-wiebe-subway.jpg
+    caption: Photo by Matthew Wiebe on unsplash.com
+    caption_url: https://unsplash.com/
 ---
 
-# {{ page.title }}
-
-{{ page.tags | array_to_sentence_string }}
 
 <!--
 <ul class="tags">

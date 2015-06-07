@@ -1,5 +1,9 @@
-- title: Home
+- title: ProfeC's Projects
   url: "/"
+  side: left
+
+- title: Photography
+  url: "/photography/"
   side: left
 
 # - title: Getting Started

@@ -5,4 +5,4 @@ _site/
 .jekyll-metadata
 bower_components
 .sass-cache
-tmp/
+_tmp/

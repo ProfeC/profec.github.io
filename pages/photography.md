@@ -1,14 +1,14 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Photo Galleries"
+subheadline: "A Day in the Life..."
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+permalink: "/photography/"
 ---
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.categories.photography %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
