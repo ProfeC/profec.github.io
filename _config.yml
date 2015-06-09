@@ -38,7 +38,7 @@ urlimg: "http://profec.github.io/images/"
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+# logo: "logo.png"
 
 
 # Paginates all X entries
@@ -51,7 +51,8 @@ paginate_path: "blog/page:num"
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
+# permalink: date
 highlight: pygments
 excerpt_separator: "\n\n"
 exclude: []

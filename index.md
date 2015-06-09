@@ -7,12 +7,12 @@
 layout: frontpage
 title: "ProfeC's Projects – A little place to show off some of my work."
 header:
-   image_fullwidth: "header_unsplash_6.jpg"
+   image_fullwidth: "photography/2008-07-05-montreal/2008-07-05-13-14-15.jpg"
    title: ""
 widget-1:
     title: "Blog"
     url: '/blog'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities.'
+    text: 'Every good portfolio website has a blog with fresh news, thoughts and developments of your activities.'
     image: unsplash_8-302x182.jpg
 widget-2:
     title: "Portfolio"
@@ -22,7 +22,7 @@ widget-2:
 widget-3:
     title: "Projects"
     url: 'https://github.com/profec'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/profec">@profec</a>.'
+    text: 'Take a look at some of the things I&squo;m working on. If I can do it better, let me know. If you want it, feel free to take it. Then tell me via Twitter <a href="http://twitter.com/profec">@profec</a>. ;-)'
     image: github-303x182.jpg
 ---
 
